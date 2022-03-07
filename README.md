@@ -1,4 +1,4 @@
-![Header Illustration for Metal & Coffee](banner.png)
+![Header Illustration for Metal & Coffee](banner.gif)
 ### I'm a full-time web developer who loves building apps with JavaScript and part-time metal DJ who is probably taking over an airwave near you. 
 <hr>
 
@@ -12,8 +12,7 @@
 - [HeroPress Person Essay](https://heropress.com/essays/believe-in-yourself/)
 - [Mini-Metal Mixtapes](https://www.mixcloud.com/metalandcoffee/)
 
-### Aspiring developers: Don't give up. You can do this! Happy Coding!
-![Celebrating solving a code problem](yeah.gif)
+### Aspiring developers: Don't give up. You can do this! Happy Coding! ✨
 
 <!-- Add Social Media Icons -->
 
