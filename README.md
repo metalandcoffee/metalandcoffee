@@ -1,20 +1,19 @@
 ![Header Illustration for Metal & Coffee](banner.png)
-### Metal & Coffee here. I'm a full-time web developer who livestreams JavaScript-y projects and part-time metal DJ taking over various airwaves. 
+### I'm a full-time web developer who loves building apps with JavaScript and part-time metal DJ who is probably taking over an airwave near you. 
 <hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 Working as a senior web developer at Yikes Inc.
+- 📝 Preparing for talks at upcoming WordPress and JavaScript-focused tech conferences
+- 🌱 Learning React.js deeply. Looking to redesign Metal & Coffee with Next.js
+- 👯 Livestreaming coding on Twitch and connecting with fellow developers
 
-#### Recent Mentions
-- CodeNewbie Podcast
+#### Recent Highlight
+- [CodeNewbie Podcast](https://www.codenewbie.org/podcast/what-does-wordpress-development-look-like)
+- [HeroPress Person Essay](https://heropress.com/essays/believe-in-yourself/)
+- [Mini-Metal Mixtapes](https://www.mixcloud.com/metalandcoffee/)
 
-### Happy Coding!
-![Celebrating solving a code problem](yeah.png)
+### Aspiring developers: Don't give up. You can do this! Happy Coding!
+![Celebrating solving a code problem](yeah.gif)
 
 <!-- Add Social Media Icons -->
 
