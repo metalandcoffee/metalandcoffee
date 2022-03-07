@@ -1,3 +1,4 @@
+![Header Illustration for Metal & Coffee](banner.png)
 ### Hi there 👋
 
 <!--
