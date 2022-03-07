@@ -1,10 +1,6 @@
 ![Header Illustration for Metal & Coffee](banner.png)
-### Hi there 👋
-
-<!--
-**metalandcoffee/metalandcoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Metal & Coffee here. I'm a full-time web developer who livestreams JavaScript-y projects and part-time metal DJ taking over various airwaves. 
+<hr>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +9,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Recent Mentions
+- CodeNewbie Podcast
+
+### Happy Coding!
+![Celebrating solving a code problem](yeah.png)
+
+<!-- Add Social Media Icons -->
+
