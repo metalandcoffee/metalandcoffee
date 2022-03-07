@@ -5,11 +5,11 @@
 - 🔭 Working as a senior web developer at Yikes Inc.
 - 📝 Preparing for talks at upcoming WordPress and JavaScript-focused tech conferences
 - 🌱 Learning React.js deeply. Looking to redesign Metal & Coffee with Next.js
-- 👯 Livestreaming coding on Twitch and connecting with fellow developers
+- 👯 Livestreaming code on Twitch and connecting with fellow developers
 
 #### Recent Highlights
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast/what-does-wordpress-development-look-like)
-- [HeroPress Person Essay](https://heropress.com/essays/believe-in-yourself/)
+- [HeroPress Personal Essay](https://heropress.com/essays/believe-in-yourself/)
 - [Mini-Metal Mixtapes](https://www.mixcloud.com/metalandcoffee/)
 
 ### Aspiring developers: Don't give up. You can do this! Happy Coding! ✨
