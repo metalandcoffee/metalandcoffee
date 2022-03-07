@@ -7,7 +7,7 @@
 - 🌱 Learning React.js deeply. Looking to redesign Metal & Coffee with Next.js
 - 👯 Livestreaming coding on Twitch and connecting with fellow developers
 
-#### Recent Highlight
+#### Recent Highlights
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast/what-does-wordpress-development-look-like)
 - [HeroPress Person Essay](https://heropress.com/essays/believe-in-yourself/)
 - [Mini-Metal Mixtapes](https://www.mixcloud.com/metalandcoffee/)
