@@ -15,4 +15,5 @@
 ### Aspiring developers: Don't give up. You can do this! Happy Coding! ✨
 
 <!-- Add Social Media Icons -->
+_Header Illustration by [lemonnae](https://twitter.com/lemonnae)_
 
