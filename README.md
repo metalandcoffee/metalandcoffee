@@ -17,3 +17,8 @@
 <!-- Add Social Media Icons -->
 _Header Illustration by [lemonnae](https://twitter.com/lemonnae)_
 
+<p align="center">
+ <a href="https://visitor-badge.glitch.me/">
+  <img align="center" src="https://page-views.glitch.me/badge?page_id=metalandcoffee.metalandcoffee">
+ </a>
+</p>
