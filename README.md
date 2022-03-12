@@ -1,5 +1,5 @@
 ![Header Illustration for Metal & Coffee](banner.gif)
-### I'm a full-time web developer who loves building apps with JavaScript and part-time metal DJ who is probably taking over an airwave near you. 
+### I'm a full-time web developer who loves WordPress & building apps with JavaScript. I'm also a part-time metal DJ who is probably taking over an airwave near you. 
 <hr>
 
 - 🔭 Working as a senior web developer at Yikes Inc.
