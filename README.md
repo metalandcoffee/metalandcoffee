@@ -2,7 +2,7 @@
 ### I'm a full-time web developer who loves WordPress & building apps with JavaScript. I'm also a part-time metal DJ who is probably taking over an airwave near you. 
 <hr>
 
-- 🔭 Working as a senior web developer at Yikes Inc.
+- 🔭 Working as a senior web developer at Penske Media Corporation.
 - 📝 Preparing for talks at upcoming WordPress and JavaScript-focused tech conferences
 - 🌱 Learning React.js deeply. Looking to redesign Metal & Coffee with Next.js
 - 👯 Livestreaming code on Twitch and connecting with fellow developers
