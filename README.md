@@ -22,3 +22,5 @@ _Header Illustration by [lemonnae](https://twitter.com/lemonnae)_
   <img align="center" src="https://page-views.glitch.me/badge?page_id=metalandcoffee.metalandcoffee">
  </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=metalandcoffee&color=ff69b4)
