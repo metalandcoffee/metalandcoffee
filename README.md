@@ -1,5 +1,5 @@
 ![Header Illustration for Metal & Coffee](banner.gif)
-### I'm a full-time software engineer specializes in WordPress. I also do metal things on the internets.
+### I'm a full-time software engineer who specializes in JavaScript and WordPress. I also do metal things on the internets.
 <hr>
 
 
